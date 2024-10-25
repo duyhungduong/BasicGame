@@ -1,0 +1,14 @@
+D:\CT287\BasicGame\bin\Debug\net8.0\BasicGame.exe
+D:\CT287\BasicGame\bin\Debug\net8.0\BasicGame.deps.json
+D:\CT287\BasicGame\bin\Debug\net8.0\BasicGame.runtimeconfig.json
+D:\CT287\BasicGame\bin\Debug\net8.0\BasicGame.dll
+D:\CT287\BasicGame\bin\Debug\net8.0\BasicGame.pdb
+D:\CT287\BasicGame\obj\Debug\net8.0\BasicGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\CT287\BasicGame\obj\Debug\net8.0\BasicGame.AssemblyInfoInputs.cache
+D:\CT287\BasicGame\obj\Debug\net8.0\BasicGame.AssemblyInfo.cs
+D:\CT287\BasicGame\obj\Debug\net8.0\BasicGame.csproj.CoreCompileInputs.cache
+D:\CT287\BasicGame\obj\Debug\net8.0\BasicGame.dll
+D:\CT287\BasicGame\obj\Debug\net8.0\refint\BasicGame.dll
+D:\CT287\BasicGame\obj\Debug\net8.0\BasicGame.pdb
+D:\CT287\BasicGame\obj\Debug\net8.0\BasicGame.genruntimeconfig.cache
+D:\CT287\BasicGame\obj\Debug\net8.0\ref\BasicGame.dll
